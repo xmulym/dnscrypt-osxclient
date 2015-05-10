@@ -6,7 +6,7 @@ experience controlling the DNSCrypt Proxy on OSX.
 
 [Download dnscrypt-osxclient-1.0.5.dmg](https://github.com/alterstep/dnscrypt-osxclient/releases/download/1.0.5/dnscrypt-osxclient-1.0.5.dmg)
 for OSX 10.8 (Mountain Lion), OSX 10.9 (Mavericks) and OSX 10.10 (Yosemite).
-
+==========================================
 Compatible with:
 * CloudNS
 * Cypherpunk.lu
